@@ -1,0 +1,15 @@
+.users_list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.add_users input {
+    margin: 0 15%;
+    width: 30%;
+}
+
+.add_users {
+    text-align: center;
+    margin-top: 15px;
+}
